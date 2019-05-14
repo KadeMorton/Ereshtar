@@ -4,7 +4,7 @@ The Earth Spring
 Written by Kade Morton
 
 ## Open world for MozFest 2019 Decentralisation Zone
-* Submit stories set during [Ereshtar, the Earth Spring]()
+* Submit stories set during [Ereshtar, the Earth Spring](https://github.com/KadeMorton/Ereshtar/blob/master/world_building_document.md)
 * Submit Ereshtaran artwork
 * Engage with the theme in ways we haven't even thought of yet!
 * Email tendaitirivanhu at aol dot com to contribute
@@ -19,7 +19,7 @@ But now, Winter has broken. Times are changing and the seasons are shifting. All
 There was a great excitement over blockchain as decentralised technology, but why treat the green shoot as the be all and end all when the mighty oak is yet to rise? As people come to realise the profound meaning of decentralisation in all its forms, the scales fall from people’s eyes. Suddenly they see what has always been there, lying before them and waiting to be reclaimed.
 The Winter has broken, the ice is melting, and its water feeds crops of unimaginable change. Welcome to the Ereshtar, the Earth Spring.
 
-[Here]() are the bones of a world building document, licensed under Creative Commons, that people can use.
+[Here](https://github.com/KadeMorton/Ereshtar/blob/master/world_building_document.md) are the bones of a world building document, licensed under Creative Commons, that people can use.
 
 ### MozFest
 
