@@ -1,3 +1,6 @@
+# World Building Document
+
+## Introduction
 The four seasons, Autumn, Winter, Spring and Summer have a deeper significance than you may realise. Just has nature responds to seasons, there are seasons that guide a person’s life. This unexplainable power comes from the grand seasons, cosmic cycles that define worlds.
 
 Humanity was created in the Summer, a time remembered as naught but myths and legends. The seasons quickly moved to Autumn as nomadic hunter gatherers settled down, centralised themselves, formed government and set about their petty conflicts. As these times moved to industrialisation the seasons moved to Winter. Humanity spread and conquered, millions dying in the process.  
