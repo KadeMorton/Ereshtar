@@ -7,6 +7,7 @@ Written by Kade Morton
 * Submit stories set during [Ereshtar, the Earth Spring](https://github.com/KadeMorton/Ereshtar/blob/master/world_building_document.md)
 * Submit Ereshtaran artwork
 * Engage with the theme in ways we haven't even thought of yet!
+* https://www.pinterest.com.au/moretonkate/mozfest/
 * Email tendaitirivanhu at aol dot com to contribute
 
 ### Overview
