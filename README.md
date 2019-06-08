@@ -26,9 +26,15 @@ The Winter has broken, the ice is melting, and its water feeds crops of unimagin
 
 ### MozFest
 
-The space description from the [MozFest Website]():
+The space description from the [MozFest Website](https://www.mozillafestival.org/en/spaces/decentralisation/):
 
-To be added.
+Let your eyes be opened by the abundance of new growth in the Decentralisation Space!
+
+The power of grassroots collaboration has fueled innovation and inspiration in social interactions and political organisations around the world. The past year has seen green shoots of possibility grow in our communities and our online environments due to the immense opportunity contained within decentralised approaches to power and authority.
+
+By empowering people to change technologies, policies, and societies, we take control away from centralised authorities and monopolies. Through decentralisation, we give power back to the people and communities to ensure that the internet and machine decision making processes are controlled by those they affect rather than being governed by the few.
+
+Come share, make, and collaborate with us to unearth new opportunities for decentralised growth in both the digital and physical world.
 
 ### Using the world building document
 
